@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... developing a fivem server
 - 🌱 I’m currently learning ...how to make my own fivem server
 - 💞️ I’m looking to collaborate on ...hosting my server through rocketnode
-- 📫 How to reach me ...jaylanddonaldson1998@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
